@@ -19,4 +19,6 @@ Web Scraping with BeautifulSoup and Selenium. Get interview information, intervi
 
 1. [Chrome](https://www.google.com/chrome/) browser installed.
 2. Download the corresponding [chromedriver](https://chromedriver.chromium.org/downloads) version to your Chrome.
-3. Install the required packages to your python in the py file
+3. Install the required packages to your python in the [py](https://github.com/JackieCZY/Web-Scraping-Glassdoor-Interview/blob/main/scraping.py) file
+
+Note: The chromedriver will not work if your Chrome browser updates automatically, so you need to make sure that your chromedrive's version is the same as your Chrome browser. 
